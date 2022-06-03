@@ -1,0 +1,19 @@
+{
+  "name": "pokeapi-cache-server",
+  "version": "1.0.0",
+  "description": "Don't DDOS PokeAPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && npm run dev",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
