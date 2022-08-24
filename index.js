@@ -41,5 +41,5 @@ app.get('/api/v2/*', async (req, res) => {
 })
 
 app.listen(config.port, () => {
-  console.log(`Server ready at http://localhost:${config.port}`)
+  console.log(`API ready at http://localhost:${config.port}/api/v2`)
 })
