@@ -9,7 +9,7 @@ __Note:__ This server requires [Node.js v16+](https://nodejs.org)
 npm start
 ```
 
-🚀 The API will be running at [http://localhost:5000/api](http://localhost:5000/api)
+🚀 The API will be running at [http://localhost:5000/api/v2](http://localhost:5000/api/v2)
 
 ## Options
 
